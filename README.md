@@ -1,9 +1,21 @@
 # TI-84 Programs Repo
 
-Programs written by CRahne for the TI-84 Plus CE calculator. All of these were written using either the built-in calculator or a desktop application.
+Programs written by CRahne for the TI-84 Plus CE calculator. All of these were written using either the built-in calculator editor or a desktop application. All of these programs are written in TI-Basic and should work on the texas instrument family, but they are optimized for the TI-84.
 
-### Program Guide
 
+A majority of these are just math equations that I found too tedious or just not fun to do (like Distance between two points). I used Texas Instrument's [Tutorial PDF](https://education.ti.com/-/media/377A0772C3B04D83B83D2A4E51029D08). It is a great resource to use.
+
+
+Contents of the documentation include explanations and the deployment of the code.
+
+### Package Guide
+| Name      | Desc                                                                        |
+| --------- | --------------------------------------------------------------------------- |
+| AP Bio    | Contains all of the equations I used in AP Biology                          |
+| Physics 9 | Has a few equations for the physics 9 course                                |
+| Sequences | The package for all of the programs for arithemetic and geometric equations |
+
+### Main Programs Guide
 | Name | Desc       | Status  |
 | ---- | -----------| ------- |
 | AXISOFSY | Will determine the axis of sym in a parabola | Shipped |
