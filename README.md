@@ -26,3 +26,7 @@ Contents of the documentation include explanations and the deployment of the cod
 | MdPt | Will find the midpoint between two points | Shipped |
 | QUADVER | Will find the vertex of a parabola for a(x - h)2 + k | Shipped |
 | VERTEX | Will find the vertex of a parabola for the normal form | Shipped
+
+### Deployment
+
+You will need the TI Connect CE software on your computer before you can use these files, and of course, a ti family calculator that will run ti-basic.
