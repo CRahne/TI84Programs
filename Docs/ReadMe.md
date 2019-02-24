@@ -12,4 +12,4 @@ The documentation of this repository is set up like this: the broad docs will se
 
 | Name of Folder  | Desc                                                                                   |
 | --------------- | -------------------------------------------------------------------------------------- |
-| [AP Bio](../AP Bio/ReadMe.md) | The ap bio class programs. This includes HW and Chi^2                       |
+| [AP Bio](..\AP Bio\ReadMe.md) | The ap bio class programs. This includes HW and Chi^2                    |
