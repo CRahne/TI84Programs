@@ -27,12 +27,15 @@ Contents of the documentation include explanations and the deployment of the cod
 | VERTEX | Will find the vertex of a parabola for the normal form | Shipped |
 
 ### Current Programs in Development
-| Name | Desc        | Status   |
-| ---- | ----------- | -------- |
-| EXPGD | Will find a varible in the y = a(r)^t equation | Testing |
-| FMA | Menu Program that will find a varible in F = MA | Testing |
+| Name     | Desc                                                  | Status  |
+| -------- | ----------------------------------------------------- | ------- |
+| EXPGD    | Will find a varible in the y = a(r)^t equation        | Testing |
+| FMA      | Menu Program that will find a varible in F = MA       | Testing |
+| PYTHAGOR | Will find the varibles in the pythagoream therom      | Testing |
 
 
-### Deployment
+### Other References:
 
-You will need the TI Connect CE software on your computer before you can use these files, and of course, a ti family calculator that will run ti-basic.
+[How To Donate](/Docs/Others/Donate.md)
+
+[Deployment](/Docs/Others/Deployment.md)
