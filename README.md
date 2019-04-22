@@ -8,6 +8,7 @@ A majority of these are just math equations that I found too tedious or just not
 
 Contents of the documentation include explanations and the deployment of the code.
 
+
 ### Package Guide
 | Name      | Desc                                                                        |
 | --------- | --------------------------------------------------------------------------- |
@@ -15,6 +16,7 @@ Contents of the documentation include explanations and the deployment of the cod
 | Physics 9 | Has a few equations for the physics 9 course                                |
 | Sequences | The package for all of the programs for arithemetic and geometric equations |
 | Stats     | The package that has all of the stats scripts                               |
+
 
 ### Main Programs Guide
 | Name | Desc       | Status  |
@@ -25,6 +27,7 @@ Contents of the documentation include explanations and the deployment of the cod
 | MdPt | Will find the midpoint between two points | Shipped |
 | QUADVER | Will find the vertex of a parabola for a(x - h)2 + k | Shipped |
 | VERTEX | Will find the vertex of a parabola for the normal form | Shipped |
+
 
 ### Current Programs in Development
 | Name     | Desc                                                  | Status  |
