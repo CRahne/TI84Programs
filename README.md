@@ -36,6 +36,7 @@ Contents of the documentation include explanations and the deployment of the cod
 | EXPGD    | Will find a varible in the y = a(r)^t equation        | Testing |
 | FMA      | Menu Program that will find a varible in F = MA       | Testing |
 | PYTHAGOR | Will find the varibles in the pythagoream therom      | Testing |
+| Geometry | All geometry programs are untested, but should work   | Develop |
 
 
 ### Other References:
