@@ -37,6 +37,7 @@ Contents of the documentation include explanations and the deployment of the cod
 | FMA      | Menu Program that will find a varible in F = MA       | Testing |
 | PYTHAGOR | Will find the varibles in the pythagoream therom      | Testing |
 | Geometry | All geometry programs are untested, but should work   | Develop |
+| AP Bio   | HW and CHI^2 work, but others are new and not ready   | Testing |
 
 
 ### Other References:
