@@ -12,8 +12,7 @@ New code probably won't come with documentation. However, it is always a work in
 | --------------- | ------------------------------------------------------------------------ |
 | [AP Bio](/Docs/AP_Bio/ReadMe.md) | The ap bio class programs                               |
 | [Geometry](/Docs/Geometry/ReadMe.md) | Geometry Volume, Area, Surface Area, and more       |
-| [Others](/Docs/AP_Bio/ReadMe.md) | Other Documentation. Not code related                   |
-| [Physics](/Docs/AP_Bio/ReadMe.md) | Physics. Pretty Base but more to come                  |
-| [Sequences](/Docs/AP_Bio/ReadMe.md) | Algebraic Sequences (arithmetic and geometric)       |
-| [Stats](/Docs/AP_Bio/ReadMe.md) | Stats equations like Z-Score and Chi^2                   |
-| [Others](/Docs/Others/ReadMe.md) | General Documentation Documents, not code related       |
+| [Others](/Docs/Others/ReadMe.md) | Other Documentation. Not code related                   |
+| [Physics](/Docs/Physics/ReadMe.md) | Physics. Pretty Base but more to come                  |
+| [Sequences](/Docs/Sequences/ReadMe.md) | Algebraic Sequences (arithmetic and geometric)       |
+| [Stats](/Docs/Stats/ReadMe.md) | Stats equations like Z-Score and Chi^2                   |
