@@ -1,6 +1,6 @@
-# Stats
+# College Algebra
 
-College Algebra 1120 at Ridgewater College. These will be seperated out by chapter, and then divided into their own respective programs. This documentation will also be seperated likewise.
+College Algebra 1120 at Ridgewater College. These will be seperated out by chapter, and then divided into their own respective programs. This documentation will also be seperated likewise. This directory will be deleted at the end of the semester, but this documentation will still exsist.
 
 ### Chap 0: Prerequisites (Fully Tested)
 
