@@ -42,6 +42,4 @@ Contents of the documentation include explanations and the deployment of the cod
 
 ### Other References:
 
-[How To Donate](/Docs/Others/Donate.md)
-
 [Deployment](/Docs/Others/Deployment.md)
