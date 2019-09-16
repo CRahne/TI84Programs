@@ -6,7 +6,7 @@ Programs written by CRahne for the TI-84 Plus CE calculator. All of these were w
 A majority of these are just math equations that I found too tedious or just not fun to do (like Distance between two points). I used Texas Instrument's [Tutorial PDF](https://education.ti.com/-/media/377A0772C3B04D83B83D2A4E51029D08). It is a great resource to use for programming.
 
 
-Contents of the documentation include explanations and the deployment of the code.
+<b>WARNING: I am not responsible for faulty programs making you fail your test/homework or getting caught cheating. By downloading any of these files, you assume any problems/consequences of using my programs.</b>
 
 
 ### Package Guide
@@ -17,7 +17,7 @@ Contents of the documentation include explanations and the deployment of the cod
 | [College Algebra](/Docs/College_Algebra/Readme.md) | Holder folder for programs (currently in class) |
 | [Physics](/Docs/Physics/ReadMe.md)   | Has a few equations for a physics course                      |
 | [Geometry](/Docs/Geometry/ReadMe.md) | Geometrical Functions: Area, Perimeter, and Volume mainly     |
-| [Stats](/Docs/Stats/ReadMe.md)       | The package that has all of the stats scripts                 |
+| [Stats](/Docs/Stats/ReadMe.md)       | The package that has all of the stats programs                |
 | [Docs](/Docs/ReadMe.md)              | Documentation Directory                                       |
 
 
@@ -26,13 +26,12 @@ Contents of the documentation include explanations and the deployment of the cod
 College Algebra will be receiving the most attention as that is the math class I am in now
 
 Testing/Documentation will also be updated, as it has fallen severly behind
-- AP_BIO is up to date
-- Algebra
-- College Algebra is in progess
-- Geometry
-- Physics
-- Sequences
-- Stats
+- AP_BIO needs testing
+- Algebra is in documentation progress
+- College Algebra is in documentation progess
+- Geometry is not started
+- Physics is not started
+- Stats is in testing
 
 ### Other References:
 

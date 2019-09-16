@@ -1,4 +1,4 @@
-# Distance Between 2 Real Numbers or Absolute Difference
+# Magnitude Between a Number and Zero
 ```
 :Disp "ABSOLUTE VALUE"
 :Input "A? ",A
