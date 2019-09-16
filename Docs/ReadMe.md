@@ -8,11 +8,13 @@ New code probably won't come with documentation. However, it is always a work in
 
 #### Docs Package Guide:
 
-| Name of Folder  | Desc                                                                                   |
+| Name of Folder  | Desc                                                                     |
 | --------------- | ------------------------------------------------------------------------ |
-| [AP Bio](/Docs/AP_Bio/ReadMe.md) | The ap bio class programs                               |
+| [AP Bio](/Docs/AP_Bio/ReadMe.md)     | The ap bio class programs                           |
+| [Algebra](/Docs/Algebra/ReadMe.md)   | General Algebra Program collection.                 |
+| [College Algebra](/Docs/College_Algebra/ReadMe.md) | College Algebra class (will become part of algebra folder in near future) |
 | [Geometry](/Docs/Geometry/ReadMe.md) | Geometry Volume, Area, Surface Area, and more       |
-| [Others](/Docs/Others/ReadMe.md) | Other Documentation. Not code related                   |
 | [Physics](/Docs/Physics/ReadMe.md) | Physics. Pretty Base but more to come                  |
 | [Sequences](/Docs/Sequences/ReadMe.md) | Algebraic Sequences (arithmetic and geometric)       |
 | [Stats](/Docs/Stats/ReadMe.md) | Stats equations like Z-Score and Chi^2                   |
+| [Others](/Docs/Others/ReadMe.md) | Other Documentation. Not code related                   |
