@@ -10,35 +10,29 @@ Contents of the documentation include explanations and the deployment of the cod
 
 
 ### Package Guide
-| Name      | Desc                                                                        |
-| --------- | --------------------------------------------------------------------------- |
-| [AP Bio](/Docs/AP_Bio/ReadMe.md)    | Contains all of the equations I used in AP Biology            |
-| [Physics](/Docs/Physics/ReadMe.md) | Has a few equations for the physics 9 course                   |
-| [Sequences](/Docs/Sequences/ReadMe.md) | The package for all of the programs for arithemetic and geometric equations |
-| [Stats](/Docs/Stats/ReadMe.md)     | The package that has all of the stats scripts                  |
-| [Docs](/Docs/ReadMe.md)      | Documentation                                                        |
+| Name      | Desc                                                                                     |
+| --------- | ---------------------------------------------------------------------------------------- |
+| [Algebra](/Docs/Algebra/ReadMe.md)   | General Algebra folder                                        |
+| [AP Bio](/Docs/AP_Bio/ReadMe.md)     | Contains all of the equations I used in AP Biology            |
+| [College Algebra](/Docs/College_Algebra/Readme.md) | Holder folder for programs (currently in class) |
+| [Physics](/Docs/Physics/ReadMe.md)   | Has a few equations for a physics course                      |
+| [Geometry](/Docs/Geometry/ReadMe.md) | Geometrical Functions: Area, Perimeter, and Volume mainly     |
+| [Stats](/Docs/Stats/ReadMe.md)       | The package that has all of the stats scripts                 |
+| [Docs](/Docs/ReadMe.md)              | Documentation Directory                                       |
 
 
-### Main Programs Guide
-| Name | Desc       | Status  |
-| ---- | -----------| ------- |
-| AXISOFSY | Will determine the axis of sym in a parabola | Shipped |
-| Distance | Will determine the distance of two points on a 2D graph | Shipped |
-| GETPTS | Will Find and display the points on a parabola | Shipped |
-| MdPt | Will find the midpoint between two points | Shipped |
-| QUADVER | Will find the vertex of a parabola for a(x - h)2 + k | Shipped |
-| VERTEX | Will find the vertex of a parabola for the normal form | Shipped |
+### Current Developments
 
+College Algebra will be receiving the most attention as that is the math class I am in now
 
-### Current Programs in Development
-| Name     | Desc                                                  | Status  |
-| -------- | ----------------------------------------------------- | ------- |
-| EXPGD    | Will find a varible in the y = a(r)^t equation        | Testing |
-| FMA      | Menu Program that will find a varible in F = MA       | Testing |
-| PYTHAGOR | Will find the varibles in the pythagoream therom      | Testing |
-| Geometry | All geometry programs are untested, but should work   | Develop |
-| AP Bio   | HW and CHI^2 work, but others are new and not ready   | Testing |
-
+Testing/Documentation will also be updated, as it has fallen severly behind
+- AP_BIO is up to date
+- Algebra
+- College Algebra is in progess
+- Geometry
+- Physics
+- Sequences
+- Stats
 
 ### Other References:
 
