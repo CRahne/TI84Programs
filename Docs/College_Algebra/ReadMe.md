@@ -8,4 +8,6 @@ College Algebra 1120 at Ridgewater College. These will be seperated out by chapt
 | ------------------------------ | ----------------------------------------------------------- | ------ |
 | [Absolute Value](/Docs/College_Algebra/0_Prequisites/ABSVAL.md) | Visualization of absolute value | Yes |
 | [1 Dim Distance](/Docs/College_Algebra/0_Prequisites/D1DIST.md) | 1 Dimensional Distance      | Yes |
-| [2 Dim Distance](/Docs/College_Algebra/0_Prequisites/D1DIST.md) | 2 Dimensional Distance |  Yes |
+| [2 Dim Distance](/Docs/College_Algebra/0_Prequisites/D1DIST.md) | 2 Dimensional Distance | Yes |
+| [FOIL](/Docs/College_Algebra/0_Prequisites/FOIL.md) | Automatic FOIL of 2 binomials | Yes |
+| [Midpoint](/Docs/College_Algebra/0_Prequisites/MDPT.md) | Midpoint Equation | Yes |
