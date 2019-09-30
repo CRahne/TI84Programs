@@ -1,4 +1,4 @@
-# Quadrant Finder
+# Quadratic Formula
 
 ```
 :Disp "QUADRATIC"
