@@ -11,3 +11,7 @@ College Algebra 1120 at Ridgewater College. These will be seperated out by chapt
 | [2 Dim Distance](/Docs/College_Algebra/0_Prequisites/D1DIST.md) | 2 Dimensional Distance | Yes |
 | [FOIL](/Docs/College_Algebra/0_Prequisites/FOIL.md) | Automatic FOIL of 2 binomials | Yes |
 | [Midpoint](/Docs/College_Algebra/0_Prequisites/MDPT.md) | Midpoint Equation | Yes |
+| [Number Class](/Docs/College_Algebra/0_Prequisites/NUMCLASS.md) | Number Classification | Yes |
+| [Point Quadrant](/Docs/College_Algebra/0_Prequisites/PLANEQUA.md) | A point's quadrant | Yes |
+| [Quadratic Formula](/Docs/College_Algebra/0_Prequisites/QUADRAT.md) | Find the roots of a parabola | Yes |
+| [Number Comparison](/Docs/College_Algebra/0_Prequisites/REALCOMP.md) | Comparison of Real Numbers | Yes |
